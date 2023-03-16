@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- * main - print " a programm with the outcome piece of art using printf" 
- * Return: 0
- 
+ * main - print "a programm with the outcome piece of art using printf" 
+ * Return: Always 0 (success)
+ *
  */
-
 int main(void)
 
 {
