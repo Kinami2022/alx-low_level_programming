@@ -2,7 +2,7 @@
 /**
  * main - print " a programm with the outcome piece of art using printf" 
  * Return: 0
- *
+ 
  */
 
 int main(void)
