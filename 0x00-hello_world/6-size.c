@@ -5,10 +5,8 @@
  *
  * Return: 0 
 */
-
 int main(void)
 {
-
 	printf("size of a char: %zu byte(s)\n", sizeof(char));
 	printf("size of an int: %zu bytes(s)\n", sizeof(int));
 	printf("size of an long int: %zu bytes(s)\n", sizeof(long int));
