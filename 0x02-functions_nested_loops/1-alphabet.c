@@ -9,7 +9,7 @@
 void print_alphabet(void)
 {
 char we;
-for(we = 'a'; we <= 'z'; we++)
+for (we = 'a'; we <= 'z'; we++)
 _putchar(we);
 _putchar('\n');
 }
