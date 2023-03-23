@@ -9,21 +9,20 @@
  */
 
 int largest_number(int x, int y, int z)
-
 {
 int largest;
 
 if (x > y && x > z)
 {
-	largest = x;
+largest = x;
 }
-else if (y > z )
+else if (y > z)
 {
-	largest = y;
+largest = y;
 }
 else
 {
-	largest = z;
+largest = z;
 }
-	return (largest);
+return (largest);
 }
