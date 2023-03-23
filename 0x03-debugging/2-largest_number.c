@@ -15,15 +15,15 @@ int largest;
 
 if (x > y && x > z)
 {
-largest = x;
+	largest = x;
 }
 else if (x > y && z > x)
 {
-largest = z;
+	largest = z;
 }
 else
 {
-largest = y;
+	largest = y;
 }
-return(largest);
+	return (largest);
 }
