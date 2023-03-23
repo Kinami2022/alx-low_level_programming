@@ -17,13 +17,13 @@ if (x > y && x > z)
 {
 	largest = x;
 }
-else if (x > y && z > x)
+else if (y > z)
 {
-	largest = z;
+	largest = y;
 }
 else
 {
-	largest = y;
+	largest = z;
 }
 	return (largest);
 }
